@@ -307,6 +307,7 @@ var cnames_active = {
     ,"metadata": "oknosoft.github.io/metadata.js"
     ,"mf": "awto.github.io/mfjs-compiler" //noCF?
     ,"miguelsr": "miguelsr.github.io" //noCF?
+    ,"mikqi": "mikqi.github.io"
     ,"minesweeper": "derflatulator.github.io/minesweeper"
     ,"mingyi": "liangmingyi.github.io" //noCF?
     ,"minigrid": "henriquea.github.io/minigrid" //noCF?
